@@ -1,4 +1,4 @@
 # git-learning
 This is new **learning**
 
-*I am hyped up!*
+*I am hyped up!* - to learn $git$ 
